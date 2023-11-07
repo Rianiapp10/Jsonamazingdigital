@@ -62,12 +62,18 @@
       "show_open_ad_on_app_start": true,
       "show_open_ad_on_app_resume": true
     }
+ 
   ],
   "categories": [
     {
       "category_id": 1,
       "category_name": "Amazing",
       "category_image": "https://raw.githubusercontent.com/Rianiapp10/Amazingcircus/5e8d34c0959277fb919b3f3e18a1a58a2ba708dd/amazing.png"
+    },
+    {
+      "category_id": 2,
+      "category_name": "Cute",
+      "category_image": "https://raw.githubusercontent.com/Rianiapp10/Cutecircus/40f6c649257b7efdf3cee7abf107207652af2442/Cute.png"
     }
   ],
   "wallpapers": [
@@ -252,6 +258,132 @@
       "wallpaper_name": "Amazing 26",
       "wallpaper_thumbnail": "",
       "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Amazingcircus/5e8d34c0959277fb919b3f3e18a1a58a2ba708dd/Amazing9.jpg"
+    },
+    {
+      "wallpaper_id": 27,
+      "category_name": "Cute",
+      "wallpaper_name": "Cute 27",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Cutecircus/40f6c649257b7efdf3cee7abf107207652af2442/Cute1.jpg"
+    },
+    {
+      "wallpaper_id": 28,
+      "category_name": "Cute",
+      "wallpaper_name": "Cute 28",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Cutecircus/40f6c649257b7efdf3cee7abf107207652af2442/Cute10.jpg"
+    },
+    {
+      "wallpaper_id": 29,
+      "category_name": "Cute",
+      "wallpaper_name": "Cute 29",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Cutecircus/40f6c649257b7efdf3cee7abf107207652af2442/Cute11.jpg"
+    },
+    {
+      "wallpaper_id": 30,
+      "category_name": "Cute",
+      "wallpaper_name": "Cute 30",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Cutecircus/40f6c649257b7efdf3cee7abf107207652af2442/Cute12.jpg"
+    },
+    {
+      "wallpaper_id": 31,
+      "category_name": "Cute",
+      "wallpaper_name": "Cute 31",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Cutecircus/40f6c649257b7efdf3cee7abf107207652af2442/Cute13.jpg"
+    },
+    {
+      "wallpaper_id": 32,
+      "category_name": "Cute",
+      "wallpaper_name": "Cute 32",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Cutecircus/40f6c649257b7efdf3cee7abf107207652af2442/Cute14.jpg"
+    },
+    {
+      "wallpaper_id": 33,
+      "category_name": "Cute",
+      "wallpaper_name": "Cute 33",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Cutecircus/40f6c649257b7efdf3cee7abf107207652af2442/Cute15.jpg"
+    },
+    {
+      "wallpaper_id": 34,
+      "category_name": "Cute",
+      "wallpaper_name": "Cute 34",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Cutecircus/40f6c649257b7efdf3cee7abf107207652af2442/Cute16.jpg"
+    },
+    {
+      "wallpaper_id": 35,
+      "category_name": "Cute",
+      "wallpaper_name": "Cute 35",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Cutecircus/40f6c649257b7efdf3cee7abf107207652af2442/Cute17.jpg"
+    },
+    {
+      "wallpaper_id": 36,
+      "category_name": "Cute",
+      "wallpaper_name": "Cute 36",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Cutecircus/40f6c649257b7efdf3cee7abf107207652af2442/Cute18.jpg"
+    },
+    {
+      "wallpaper_id": 37,
+      "category_name": "Cute",
+      "wallpaper_name": "Cute 37",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Cutecircus/40f6c649257b7efdf3cee7abf107207652af2442/Cute2.jpg"
+    },
+    {
+      "wallpaper_id": 38,
+      "category_name": "Cute",
+      "wallpaper_name": "Cute 38",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Cutecircus/40f6c649257b7efdf3cee7abf107207652af2442/Cute3.jpg"
+    },
+    {
+      "wallpaper_id": 39,
+      "category_name": "Cute",
+      "wallpaper_name": "Cute 39",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Cutecircus/40f6c649257b7efdf3cee7abf107207652af2442/Cute4.jpg"
+    },
+    {
+      "wallpaper_id": 40,
+      "category_name": "Cute",
+      "wallpaper_name": "Cute 40",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Cutecircus/40f6c649257b7efdf3cee7abf107207652af2442/Cute5.jpg"
+    },
+    {
+      "wallpaper_id": 41,
+      "category_name": "Cute",
+      "wallpaper_name": "Cute 41",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Cutecircus/40f6c649257b7efdf3cee7abf107207652af2442/Cute6.jpg"
+    },
+    {
+      "wallpaper_id": 42,
+      "category_name": "Cute",
+      "wallpaper_name": "Cute 42",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Cutecircus/40f6c649257b7efdf3cee7abf107207652af2442/Cute7.jpg"
+    },
+    {
+      "wallpaper_id": 43,
+      "category_name": "Cute",
+      "wallpaper_name": "Cute 43",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Cutecircus/40f6c649257b7efdf3cee7abf107207652af2442/Cute8.jpg"
+    },
+    {
+      "wallpaper_id": 44,
+      "category_name": "Cute",
+      "wallpaper_name": "Cute 44",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Cutecircus/40f6c649257b7efdf3cee7abf107207652af2442/Cute9.jpg"
     }
     ],
   "more_apps": [
